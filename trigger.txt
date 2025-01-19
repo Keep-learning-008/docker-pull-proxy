@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.10 crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/dify-sandbox:0.2.10
+semitechnologies/weaviate:1.19.0    crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/weaviate:1.19.0
