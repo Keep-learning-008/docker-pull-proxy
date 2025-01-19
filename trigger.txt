@@ -1,1 +1,13 @@
-nginx:latest crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/nginx:latest
+langgenius/dify-api:0.6.11 crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/dify-api:0.15.1
+
+langgenius/dify-web:0.15.1 crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/dify-web:0.15.1
+
+postgres:15-alpine crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/postgres:15-alpine
+
+redis:6-alpine crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/redis:6-alpine
+
+semitechnologies/weaviate:1.19.0 crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/weaviate:1.19.0
+
+langgenius/dify-sandbox:0.2.1 crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/dify-sandbox:0.2.1
+
+ubuntu/squid:latest crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/squid:latest
