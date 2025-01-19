@@ -7,7 +7,8 @@ on:
   #   branches: [ main ]
 
 env:
-  REGISTRY: registry.cn-hangzhou.aliyuncs.com
+ # REGISTRY: registry.cn-hangzhou.aliyuncs.com
+  REGISTRY: crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com
   ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
   MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"
