@@ -1,1 +1,4 @@
-semitechnologies/weaviate:1.19.0    crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/weaviate:1.19.0
+
+langgenius/dify-api:0.6.10 crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/dify-api:0.6.10
+
+langgenius/dify-web:0.6.10 crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/dify-web:0.6.10
