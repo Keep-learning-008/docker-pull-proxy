@@ -1,3 +1,2 @@
-
-ollama/ollama crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/crazymaker/ollama
+xprobe/xinference:latest  crpi-mhnd10ix36e3lzjr.cn-hangzhou.personal.cr.aliyuncs.com/xinference:latest
 
